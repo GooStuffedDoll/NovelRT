@@ -1,0 +1,7 @@
+<map id="NovelRT::Ecs::Graphics::DefaultRenderingSystem::UIRenderEventArgs" name="NovelRT::Ecs::Graphics::DefaultRenderingSystem::UIRenderEventArgs">
+<area shape="rect" id="node1" title=" " alt="" coords="447,82,640,138"/>
+<area shape="rect" id="node2" href="$class_novel_r_t_1_1_graphics_1_1_graphics_resource_manager.html" title=" " alt="" coords="13,5,209,47"/>
+<area shape="rect" id="node3" href="$class_novel_r_t_1_1_ecs_1_1_catalogue.html" title="A thread&#45;aware context into the current state of the ECS instance that created an instance of this ob..." alt="" coords="21,71,200,98"/>
+<area shape="rect" id="node4" href="$class_novel_r_t_1_1_timing_1_1_timestamp.html" title=" " alt="" coords="5,122,216,149"/>
+<area shape="rect" id="node5" href="$class_novel_r_t_1_1_graphics_1_1_graphics_memory_region.html" title=" " alt="" coords="21,173,200,244"/>
+</map>

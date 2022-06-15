@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['icustomserialisationrule_391',['ICustomSerialisationRule',['../class_novel_r_t_1_1_persistence_1_1_i_custom_serialisation_rule.html',1,'NovelRT::Persistence']]],
+  ['iecssystem_392',['IEcsSystem',['../class_novel_r_t_1_1_ecs_1_1_i_ecs_system.html',1,'NovelRT::Ecs']]],
+  ['igraphicsadapterselector_393',['IGraphicsAdapterSelector',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_adapter_selector.html',1,'NovelRT::Graphics']]],
+  ['igraphicsmemoryregioncollection_394',['IGraphicsMemoryRegionCollection',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_memory_region_collection.html',1,'NovelRT::Graphics']]],
+  ['igraphicsmemoryregioncollection_3c_20graphicsmemoryblock_20_3e_395',['IGraphicsMemoryRegionCollection&lt; GraphicsMemoryBlock &gt;',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_memory_region_collection.html',1,'NovelRT::Graphics']]],
+  ['igraphicsmemoryregioncollection_3c_20graphicsresource_20_3e_396',['IGraphicsMemoryRegionCollection&lt; GraphicsResource &gt;',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_memory_region_collection.html',1,'NovelRT::Graphics']]],
+  ['igraphicspluginprovider_397',['IGraphicsPluginProvider',['../class_novel_r_t_1_1_plugin_management_1_1_i_graphics_plugin_provider.html',1,'NovelRT::PluginManagement']]],
+  ['igraphicssurface_398',['IGraphicsSurface',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_surface.html',1,'NovelRT::Graphics']]],
+  ['iinputdevice_399',['IInputDevice',['../class_novel_r_t_1_1_input_1_1_i_input_device.html',1,'NovelRT::Input']]],
+  ['iinputpluginprovider_400',['IInputPluginProvider',['../class_novel_r_t_1_1_plugin_management_1_1_i_input_plugin_provider.html',1,'NovelRT::PluginManagement']]],
+  ['imagedata_401',['ImageData',['../struct_novel_r_t_1_1_resource_management_1_1_desktop_1_1_image_data.html',1,'NovelRT::ResourceManagement::Desktop']]],
+  ['imetadata_402',['IMetadata',['../class_novel_r_t_1_1_graphics_1_1_i_graphics_memory_region_collection_1_1_i_metadata.html',1,'NovelRT::Graphics::IGraphicsMemoryRegionCollection']]],
+  ['immutabledataview_403',['ImmutableDataView',['../class_novel_r_t_1_1_ecs_1_1_component_buffer_memory_container_1_1_immutable_data_view.html',1,'NovelRT::Ecs::ComponentBufferMemoryContainer']]],
+  ['initialisationfailureexception_404',['InitialisationFailureException',['../class_novel_r_t_1_1_exceptions_1_1_initialisation_failure_exception.html',1,'NovelRT::Exceptions']]],
+  ['inputaction_405',['InputAction',['../struct_novel_r_t_1_1_input_1_1_input_action.html',1,'NovelRT::Input']]],
+  ['inputeventcomponent_406',['InputEventComponent',['../struct_novel_r_t_1_1_ecs_1_1_input_1_1_input_event_component.html',1,'NovelRT::Ecs::Input']]],
+  ['inputsystem_407',['InputSystem',['../class_novel_r_t_1_1_ecs_1_1_input_1_1_input_system.html',1,'NovelRT::Ecs::Input']]],
+  ['invalidoperationexception_408',['InvalidOperationException',['../class_novel_r_t_1_1_exceptions_1_1_invalid_operation_exception.html',1,'NovelRT::Exceptions']]],
+  ['ioexception_409',['IOException',['../class_novel_r_t_1_1_exceptions_1_1_i_o_exception.html',1,'NovelRT::Exceptions']]],
+  ['iresourcemanagementpluginprovider_410',['IResourceManagementPluginProvider',['../class_novel_r_t_1_1_plugin_management_1_1_i_resource_management_plugin_provider.html',1,'NovelRT::PluginManagement']]],
+  ['iterator_411',['Iterator',['../class_novel_r_t_1_1_ecs_1_1_sparse_set_1_1_iterator.html',1,'NovelRT::Ecs::SparseSet&lt; TKey, TValue &gt;::Iterator'],['../class_novel_r_t_1_1_ecs_1_1_sparse_set_memory_container_1_1_iterator.html',1,'NovelRT::Ecs::SparseSetMemoryContainer::Iterator']]],
+  ['iwindowingdevice_412',['IWindowingDevice',['../class_novel_r_t_1_1_windowing_1_1_i_windowing_device.html',1,'NovelRT::Windowing']]],
+  ['iwindowingpluginprovider_413',['IWindowingPluginProvider',['../class_novel_r_t_1_1_plugin_management_1_1_i_windowing_plugin_provider.html',1,'NovelRT::PluginManagement']]]
+];
